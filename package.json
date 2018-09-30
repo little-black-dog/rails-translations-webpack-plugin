@@ -30,7 +30,7 @@
   "dependencies": {
     "glob": "^7.1.1",
     "lodash": "^4.17.4",
-    "virtual-module-webpack-plugin": "^0.4.0",
+    "virtual-module-webpack-plugin": "https://github.com/little-black-dog/virtual-module-webpack-plugin",
     "yaml-js": "^0.1.4"
   },
   "devDependencies": {
